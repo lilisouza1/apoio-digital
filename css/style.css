@@ -3,13 +3,6 @@ body {
     height: 5000;
 }
 
-.bg-image {
-    background-image: url('./img/IMG_TOPO.jpg');
-    width: 1920px;
-    height: 272px;
-    
-}
-
 .footer-border {
     border-top: 1px solid #777;
     margin-top: 24px;
